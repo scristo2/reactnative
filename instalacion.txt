@@ -1,0 +1,4 @@
+#como ya tenemos instalado npm y node en el ordenador,
+#commando en la terminal npm isntall -g expo-cli
+luego expo init nombreproyecto
+se crea la carpeta(no en e escriorio) y cd nameapp
